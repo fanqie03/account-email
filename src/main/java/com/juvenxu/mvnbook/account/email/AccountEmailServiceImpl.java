@@ -1,4 +1,4 @@
-package com.juvenxu.mvnbook.account.account.email;
+package com.juvenxu.mvnbook.account.email;
 
 import javax.mail.internet.MimeMessage;
 
